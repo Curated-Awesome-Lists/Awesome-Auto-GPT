@@ -187,6 +187,7 @@ Auto-GPT is a pioneering open-source project designed to demonstrate the power o
 - [Auto-GPT Alternatives - Page 2 | AlternativeTo](https://alternativeto.net/software/auto-gpt/?p=2) - Find alternative options to Auto-GPT such as AgentGPT, Faraday.dev, and GPT Engineer. This crowd-sourced list contains more than 10 similar apps for web-based, self-hosted, Mac, Windows, and more.
 - [Godmode - Product Information, Latest Updates, and Reviews](https://www.producthunt.com/products/godmode-2) - Explore Godmode, an interface that allows anyone to start playing with AI agents, including AutoGPT. It provides a browser-based experience for easier interaction.
 - [AgentGPT vs. Godmode Comparison](https://sourceforge.net/software/compare/AgentGPT-vs-Godmode/) - Compare AgentGPT and Godmode with this helpful comparison chart. Assess their price, features, and reviews to make an informed choice.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server and live-music venue directory enabling AI agents to search 18,000+ verified independent venues across the US and Canada.
 
 ## Conferences & Events
 
